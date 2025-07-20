@@ -1,0 +1,5 @@
+# Ignore the similarity matrix
+similarity_matrix.npy
+
+# Ignore all CSV files
+*.csv
